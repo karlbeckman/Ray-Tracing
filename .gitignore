@@ -1,0 +1,5 @@
+*.dSYM
+.vscode
+*.ppm
+*main
+*main_test
